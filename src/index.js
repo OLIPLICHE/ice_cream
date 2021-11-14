@@ -2,7 +2,7 @@ import './style.css';
 
 function component() {
   const element = document.createElement('div');
-  element.classList.add('hello');
+  element.classList.add('hi');
 
   return element;
 }
